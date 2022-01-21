@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\DateOfBirthTask.exe
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\DateOfBirthTask.deps.json
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\DateOfBirthTask.runtimeconfig.json
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\DateOfBirthTask.dll
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\ref\DateOfBirthTask.dll
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\bin\Debug\net6.0\DateOfBirthTask.pdb
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.AssemblyInfo.cs
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.dll
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\ref\DateOfBirthTask.dll
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.pdb
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.genruntimeconfig.cache
+C:\Users\PC\Documents\DotNet\DateOfBirthTask\DateOfBirthTask\obj\Debug\net6.0\DateOfBirthTask.csproj.AssemblyReference.cache
