@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\CSharpTuts.exe
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\CSharpTuts.deps.json
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\CSharpTuts.runtimeconfig.json
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\CSharpTuts.dll
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\ref\CSharpTuts.dll
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\bin\Release\net6.0\CSharpTuts.pdb
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.AssemblyInfo.cs
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.dll
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\ref\CSharpTuts.dll
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.pdb
+C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\obj\Release\net6.0\CSharpTuts.genruntimeconfig.cache
