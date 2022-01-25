@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = FirstDemoApp
-build_property.ProjectDir = C:\Users\PC\Documents\DotNet\FirstDemoApp\FirstDemoApp\
+build_property.RootNamespace = FIrstDemoApp
+build_property.ProjectDir = C:\Users\PC\Desktop\dotnet-demos\DotNet\C#Demo\
