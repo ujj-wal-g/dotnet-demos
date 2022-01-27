@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "877d3d7f-4d50-465a-8e13-d35cef9c9bf5": {
+      "ProjectGuid": "877d3d7f-4d50-465a-8e13-d35cef9c9bf5",
+      "DisplayName": "ConsoleToWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
